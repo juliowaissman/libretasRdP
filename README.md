@@ -1,8 +1,6 @@
-# Libretas de Jupyter par la materia que imparto de Reconocimiento de Patrones
+# Libretas de Jupyter como manual de prácticas par la materia de Reconocimiento de Patrones
 
-Las libretas originales con las respuestas, pues no las puedo poner aqui en Github porque ya les doy la solución a los estudiantes y eso no les va a ayudar.
-
-Hasta el momento las libretas que tenemos son:
+Las libretas originales sin respuestas. Conforme avance el curso agregaré nuevas libretas de acuerdo a las modificaciones que he realizado de éstas a lo largo del semestre, por lo que les recomiendo a los estudiantes de descargar solo la libreta que se encuentre en desarrollo cada vez. Hasta el momento las libretas que tenemos son:
 
 1. [Una introducción a numpy y matplotlib](https://github.com/juliowaissman/libretasRdP/blob/master/intro_numpy/Introducción%20a%20Numpy%20y%20Matplotlib.ipynb)
 2. Regresión lineal
