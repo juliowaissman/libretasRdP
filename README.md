@@ -8,7 +8,8 @@ Hasta el momento las libretas que tenemos son:
 2. Regresión lineal
 3. Regresión logística
 4. Regresión *softmax*
-5. Redes neronales hacia adelante con *backpropagation*
-
+5. Regularización y clasificadores polinomiales
+6. Redes neronales hacia adelante con *backpropagation*
+7. Máquinas de vector de soporte
 
 
