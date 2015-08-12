@@ -4,7 +4,7 @@ Las libretas originales con las respuestas, pues no las puedo poner aqui en Gith
 
 Hasta el momento las libretas que tenemos son:
 
-1. Una introducción a ´numpy´y ´matplotlib´
+1. [Una introducción a ´numpy´y ´matplotlib´](https://github.com/juliowaissman/libretasRdP/blob/master/intro_numpy/Introducción%20a%20Numpy%20y%20Matplotlib.ipynb)
 2. Regresión lineal
 3. Regresión logística
 4. Regresión *softmax*
