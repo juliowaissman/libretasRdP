@@ -1,4 +1,4 @@
-# Libretas de Jupyter como manual de prácticas par la materia de Reconocimiento de Patrones
+# Libretas de Jupyter como manual de prácticas para la materia de Reconocimiento de Patrones
 
 Las libretas originales sin respuestas. Conforme avance el curso agregaré nuevas libretas de acuerdo a las modificaciones que he realizado de éstas a lo largo del semestre, por lo que les recomiendo a los estudiantes de descargar solo la libreta que se encuentre en desarrollo cada vez. Hasta el momento las libretas que tenemos son:
 
